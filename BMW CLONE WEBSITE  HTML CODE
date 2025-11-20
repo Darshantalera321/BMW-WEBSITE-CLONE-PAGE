@@ -1,0 +1,170 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Document</title>
+    <link rel="stylesheet" href="bmw.css">
+<title>Document</title>
+</head>
+<body>
+
+    <nav>
+        <div class="bagr">
+            <div class="navbar">
+                <ul type="none">
+                    <li><img src="C:\Users\csp\Downloads\Explore BMW latest Model in India & Book Test Drive_BMW.in\BMW_White_Logo.svg.asset.1670245093434.png"alt=""></li>
+                    <li>Models</li>
+                    <li>Electric</li>
+                    <li>Configurator</li>
+                    <li> Visit Online Shop<img
+                            src="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABwAAAAcCAYAAAByDd+UAAAA9klEQVR4AeySTQrCMBBGZ7oLtJtuXIrHcKEL8USeQMELuPU6olfwACIoroT+bZo4U6y0SpMmiAtJyTSBzJdHXxPAjx8P/Lpwr9QrtTbgLw2oLFtQnVWej3T+VJIMqO+o0nSt6zMrFWJLB5xAqR1Bh7T+GAyDIDhUG1JuqrnjZQQiYgJCzCl/Jej+HdqASSjLKUbRjXo7hxHIyQpaFDNat6AtmJQTE4zy0AvIjRjHd2hCs2z81CiBYWF44T5T9QbyQS0oAP8zKxifYQXkwAuKuLT5Ms5yWQM5xFAUYoU9NXKmLidgHXaZPdDFmjbjlWr1uGz+v9IHAAAA//8DG6uWAAAABklEQVQDAPEqZjnRwJ2zAAAAAElFTkSuQmCC"
+                            alt=""></li>
+                    <li>More bmw <img
+                            src="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABwAAAAcCAYAAAByDd+UAAAA9klEQVR4AeySTQrCMBBGZ7oLtJtuXIrHcKEL8USeQMELuPU6olfwACIoroT+bZo4U6y0SpMmiAtJyTSBzJdHXxPAjx8P/Lpwr9QrtTbgLw2oLFtQnVWej3T+VJIMqO+o0nSt6zMrFWJLB5xAqR1Bh7T+GAyDIDhUG1JuqrnjZQQiYgJCzCl/Jej+HdqASSjLKUbRjXo7hxHIyQpaFDNat6AtmJQTE4zy0AvIjRjHd2hCs2z81CiBYWF44T5T9QbyQS0oAP8zKxifYQXkwAuKuLT5Ms5yWQM5xFAUYoU9NXKmLidgHXaZPdDFmjbjlWr1uGz+v9IHAAAA//8DG6uWAAAABklEQVQDAPEqZjnRwJ2zAAAAAElFTkSuQmCC"
+                            alt=""></li>
+                </ul>
+                <ul type="none" class="jj">
+                    <li><img src="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABwAAAAcCAYAAAByDd+UAAAClklEQVR4AeyUP2hTURTGz02CSZoUiiKKODg4uYm1UtFGsdSh4uoihY7iUosUBIWqhSyKS+3UoQgOIhmEStUIBh3a4l+wk4I6CQ4qpE1fTUmvv1vKI+b9yX21dGo4X+65557zfe/ee96LySb/tgR9D1xXKoe145zQi4udvgkhwUhHikgOkVlRalK0zsNbIDanFxZO41uZtSBCQ4gUwLBqadkFOsEeVC5ILDbBrm/gNzUrQcgOwnRdVla6VSYzhe+aSqdfIdjFrgd4qA53IcCxEoTsKvXjKpv9wOgxlUp9ZuejLFwBoWYnKHII0fehTEq9Zv0YCDVbwSrHmQhl0rrGegaEmq3gLPfUHsok0sEpvGiSI7aCd7mj/rXm8XDqpaX9iF3iFMY8iw0BK0Haf4a6O5AWIe/Bd433sAuhlwQm6ODHjKFmJWgYEB1C8Dbkj2j/H2AafGfnT4mPsX7R5DWDtaAh4p3LSzq9nfs8z7zA2GfmxEeYW1kkQcOolHJ474rs6BbjczM3cVtEFrQlDsprKkhntoNx7usNqALtgxrN85H4PZqqO0jMxAMFtdZxSK7REDPc1W6aw/g9zE/64BSxQQiTNFUR4VHqtzH3WKCgOM4IIn1UHKcpztDyU4ylQKRS5l7PUWM+gznq71PrMV9BnvAomQPsrJfmmMa3Nh7sHclnQS8n1M/4j/kKkjHIEeXpwk/4kY1T+Er9TY73cmNxkOARCh40JkeaK/UQjgO6XN5RX+cR1PPzO0nYK9XqT8b1WzL5bbU4Ht+3Oq79eQQlmy2z9ksSiSfcZWm9oGnM97Uiy8tf4HPNI8iX44/Uajm6bRKU/gPPqM2ptrbfrhqOR5CYqNbWObpteAPw1vDVw1ewPmGj/b8AAAD//zoX6XkAAAAGSURBVAMAeftrSOfKY4cAAAAASUVORK5CYII="
+                            alt=""></li>
+                    <li><img src="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABwAAAAcCAYAAAByDd+UAAACfUlEQVR4AeyWv2sUURDH32y8XHaPEAR/gI1gExDBRsUmYmElWKpFQIOFIMYUaew0jWJlYWOI2FiEWFiIxCKgiSIE/ANE0lhoFYMEyd1xl7uMn7eb2+zuebndY0mVY+bNzLuZ933z5s27c8wef/YBcz/w2JGqqqPV6giylDvS9oIxQFOrXTKqn021uqbl8u1tn1xFDFAGBhaM69q5MSPyXGu1k7misZhdHLFDIqLiea/J9KNpNnPPsg0whBaZJssx6lkI53JQOgO67luyrFPPSS7SxZ64XD7LhmMYMSOaAEfbAHCauSfIxZ5Y5CsbXmaNkDoC+h4iL5BqHGeYukpWpiQ3iD8Oh7QrIAA/8Zw3W1v3kNlJdZKgWTikXQF9L1V7rLeohefbKQetVM7jehp+CofUHdDz3uO9ZiqVm8gsNIHzO07pFzKkroBcHqUWM0SMw6lINzaO4niVuGfIGHUF9L0bjRmCT/DcXfHtboPj3Mf/u7juh6RrKkAZHPxNW0ywyCy1uZ5cpGVT5yKbeoxtL9kdZBulArRRUirZFnmFbkF/ALyU4E/UeZVNjeJzgey+INsoNaCN5ALcNfX6IRZ9SMZLCV6kX8d5/E/hF2t2E/lkAtT19YOmULgG0AoZT0XZeN4j5su8LJc52o7vbyZA09+/QHa2L5d5W0ciGzcc5xT2G3gO/QHyv5QakF0fYIUzcECqtrEDPRjPBcIfk9/5k3ZIDUg/NggIninVv6avbx57hxxnDqPpc6CjtlNqQBvKZRjlYgxTr8NSLH6zcy3mVr7kB/uY2dw84uutLxIyE6CN5W/ICtnWrZ5k+nVVhob+JOejdmbAaHAv+p4D/gMAAP//RDlaowAAAAZJREFUAwDw2idIEti26AAAAABJRU5ErkJggg=="
+                            alt=""></li>
+                    <li><img src="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABwAAAAcCAYAAAByDd+UAAACvklEQVR4AeyUzWsTQRTAZ5KKTdpePHixgpaigviJxYtKPfkfVBEP4sGLiOLHpWrBm4Lai/iBQitFET8OetCLaZtGpH4gCgWlIlpQwWNpm20O2fH3ht3QTXa7SVM8iOG9vJn33rzfm9mdTai//PsPXPQDjz1SMzvbZhyn02o+3xrWgZmaWm7jklcorAvL8X2RQJPPb6fIc+W6X5UxQ1aVmsD/wHhFia9mPqCSyR82LnnF4id8GWK7fMhcGwo009N7SBqhyLjSepVOp7WoKhY34XdpYpSCB4iPMl/KvEPiovhWoK9Rge4nHpAKIEe4RiUSjwAdosAxnUpN+Ct0S8sYvn0Uu44O4L/HvEs3N39kbEU3Nf1Cu5lI3h0a28G4JBVAur1BtA/QXWy4pFLdNLRbpVInwxOUopHHSqnLNNZvjEkythIAcvYr8XaiF9FI0VobGhrGupFJEnDdXkybcpxtWCsBIN1sxfud7n5i6xaO+jdFxqkbAVRKOl5C0mJKnmIF1Epwh4nEGN5WMzm5DFu3eM+unR2+84sFgDyXbwRyqqFhL7Z+cZwuinzmaD9grQSA1qP1ed7AK9zFjXa+wD+uVztLb7K7I9iSVADZZYboOe7iINANjGsWYG1crywL+7iTb7ElqQBKhLf0EvYC0CzfyfWMqxYPNsLOXnBPj5cvDAVKkgft4TuZY6ebxRenHuwVj+SZSqcPau5r+ZpIoCQCvYrtoUA2DgpsLccosKc8lsNhMGqpeYGSYKFan7HQmZkO8ZWrB3uJ/6HAsJESC5SVFqrUKaCDpgxqn7HrCuw+eUclfz6tCigFeNtu8SKcAJrxoRaWTOaI91cDIy/+SCXJ1znQIT70w7xQb2jiGrDTfk6crXqHfiGgt7kuW5g/AbaT+VnGVUvNQKmsGxu/sKteYO9lXosuCFgLoDz33wf+AQAA//+t5en/AAAABklEQVQDAOuyJEj4Ka8tAAAAAElFTkSuQmCC"
+                            alt=""></li>
+                    <li><img src="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABwAAAAcCAYAAAByDd+UAAADZElEQVR4AeyWS0iUURTH752gnHFGpQdG1qKHRCVJWeKmzLCEEMmgCEIRqmWLNvagKKTCIIIIgogIw40QRUS560FCoRA9XEgtKinDNIvUmcF53H73yueMfXNnxo0r5Zw55557zvnfc+7j0yNm+W8OMGXD1fj4MhUMVsArlFIypZPFmHVLVTi8GoDr8ICQ8jv5XsH9IhQaVKHQTebXMs5IGQGpwANIq4jHu4RS78lYLn0+6bCIRtdje8n8M/yu4j+PsZXSAhIsqeAeFdUCtlnm5t4C6FtyNpmXNyy93nYRiZRgrxTh8EPirHmtEwQLgs8iN5KsErAf6FaS+fkjYmKimoWtEcHgOZujFVCNjRUSfAo+QBW/dAJWLtmvk7SuDw7BnzhALdhNG2VBwW/8GulIM/FL0V1kBRQeTxPe3VT2BjlJoVAbCyiDG4TXu4h9289EEW2/jzREy7tRXhPfiHSRx2VJGGpQH8OGqKYepRyggyyiR0oZlH7/W/TD2AupvAHpUCfKbthF6QCL8f4MO7SDyroAijmGKanUU+Z2JY170UthF6UDnE+SSFLEQvZmNGmcUD2ev/gWThmkHEZfzN66HgU7oJRDBBXBDn1A2QS7SaktLEbfUWduOcow3VDIaWQHVOojnmXwJMXjbSgl7OUxVm7ikPrUNmGvAfAG0qGtKH2wi0ygy6oNSj0hyV6STh55v38Q8x74NKfyD8DdyBFaeQW/Wi5/8n7vw+8R7CI7YDSqj/oCkuqjbwLNkY9ENgBQBzfD9SIWWwfYC+PAD2+qPp2rWEg7QxdZAc3LIcRtIk5QpUQa0nYAnk9xIKD32syZn3j8jAbjugyY8X8/VkDjF4tdQBZT5XFkRuLVOYJTBZf+PDIlpQWUgcBP2naRyEu0Ku3nh4u/Et9rVNdK9V+JSUlpAU1ETs5lZA/PWAet9aK7CLu+sx1M9AqfrwVppYyA3KU4B0Ofujxa207yaTGM9SfsLghLWFQd/lF0K00LtnnR2iHatZP5bYC2AWLikJJP0R3sVcxX8bbqq8PQTibQPp2YYV++UIF+L7cD0smeVQGuP87V2m7mE+5WLWtAnYEK3vG1KOEU9jN+AIf5F6MUe/KzhtlOMwLUadijUao5ChfwEBxyPs56LhueMWA2SdP5zDrgPwAAAP//Uevm+AAAAAZJREFUAwChfWdITSfazwAAAABJRU5ErkJggg=="
+                            alt=""></li>
+                </ul>
+            </div>
+            <center>
+                <hr width="79%">
+            </center>
+            <div class="text">
+                <p>THE</P>
+                <h1 id="dd">X7</h1>
+                <h3>LUXRY,A LEVEL ABOVE.</h3>
+                <button>Discover Now</button>
+            </div>
+        </div>
+    </nav><br><br>
+
+    <div class="content">
+        <h3>Find your BMW.</h3>
+        <ul type="none" class="fun">
+            <li><img height="150px" width="100px" src="transport.png" alt=""></li>
+            <li><img height="150px" width="100px" src="car-insurance.png" alt=""></li>
+            <li><img height="150px" width="100px" src="add.png" alt=""></li>
+        </ul>
+        <ul type="none" class="fun2">
+            <li>Find a new car.</li>
+            <li>Book a test drive.</li>
+            <li>Build your own.</li>
+        </ul><br><br>
+        <ul type="none" class="fun3">
+            <li><button>Search now</button></li>
+            <li><button>Request a test drive</button></li>
+            <li><button>Configuer & price</button></li>
+        </ul>
+    </div><br><br>
+    <div class="content2">
+        <div class="text2">
+            <h2>THE</h2>
+            <h1>X5</h1>
+            <h3>CRAFTED SUPREMACY.</h3>
+            <button>Discover now</button>
+        </div>
+    </div><br>
+    <div class="content3">
+        <div class="text3">
+            <h2>THE ALL NEW</h2>
+            <h1>X3</h1>
+            <h3>MASTER EVERY MOMENT.</h3>
+            <button>Discover now</button>
+        </div>
+    </div><br>
+    <div class="content4">
+        <div class="text4">
+            <h3>THIS IS FORWARDISM: THE 7.</h3>
+            <button>Know more</button>
+        </div>
+    </div><br>
+    <div class="content5">
+        <div class="text5">
+            <h2>THE iX: THE JOY OF ELECTRIC DRIVING.</h2>
+            <P>100% electric. 100% driving pleasure. 100%. <br>
+                Experience an entirely new sensation of sheer driving pleasure.</P><br>
+            <button>Know more</button>
+        </div>
+    </div><br><br><br><br>
+    <div class="content6">
+        <img height="500px" width="60%"
+            src="https://www.bmw.in/en/index/_jcr_content/root/maincontent/contentblueprint_1532906499/contentblueprint/contentblueprint/image.coreimg.jpeg/1740646378478/1502x846.jpeg" alt="">
+        <div class="text6">
+            <h3>BMW Special Offers.</h3>
+            <p>Monthly EMI starting from Rs.34999*/Month.<br>Check Out similar BMW finance <br>
+                offers available across the BMW range.</p><br>
+            <button>know more ></button>
+        </div>
+    </div><br><br><br>
+    <hr><br><br>
+    <div class="text7">
+        <h1>FIND YOUR BMW</h1>
+        <h2>ALL Modles</h2>
+    </div><br><br>
+    <footer class="old">
+        <div class="f1">
+            <p>Contact</p>
+            <ul type="none">
+
+                <li>Find a Dealer</li>
+                <li>Request a Test Drive</li>
+                <li>Careers</li>
+                <li>Contact Us</li>
+            </ul><br><br><br>
+            <ul type="none" class="image">
+                <li><img src="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABwAAAAcCAYAAAByDd+UAAAAAXNSR0IArs4c6QAAAQlJREFUSEvt1LEuREEUxvHfikRFqUG1XgHRUAiNx6BTSLyDXuIB1iMoRIEKEQkSEZVkC15BS2JvspLjJrt73TtuIrnTncnM959zzjenpebVqpnn3wEn0MZ0qNQD3gdVrmyGk9jHDsZy4ou4Sw086YluDhBNDlzH2RCzLeA+ZYYH2A2CLzjEc38veQ8vsBaAWWlPi36vMqa5xVIArPQecFUncBWXKYFT2AuC25gJcdbPpxBf46OKaebwVjCDT4wPO1ukh78BdjFfJ/AcG1WB+R5uYTaIHuG1Hz/iuCowf/8Gy2EzuUsbYFPSHx4o8vEb0/y5abJJk83X79UJk2bkjC/Tw5GiqUdbJeAXqwk1HWdoTf4AAAAASUVORK5CYII="
+                        alt=""></li>
+                <li><img src="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABwAAAAcCAYAAAByDd+UAAAAAXNSR0IArs4c6QAAAvpJREFUSEvN1lvo32McB/DXsGhRUk6j5kamMbtYJEJWu9huhpqcLqREmDnkkLPYwRxyuCCm2IbmcElyIZnWaElYuCCJRNFajGx43nq+/759f9/f7//77+Kfz933+zyf5/28P4f355lhmm3GNOP5XwLmUsdj9hjR+BWf4u9he0cxPBmP4AzMGgOs2fIntuM2vN/1Gwa4soLth134Fh/iuxHAx+JUHFd8D6n7HsBdbZ8+wAX1hr/garw2BXbN1mV4BkfgXLzbLPQBZvGcwmgJ3poi2EKciVcxvzB+E19i7jDAw/ETPkNyOFWL3zw8getrAZ1Uz8raQFuchffwMi7uQTsMK0oxLMIp2FHD9Th+xNOF0UW4Di9iIy7BhdjcB3h+uc3reKo6tTHj9GyrINprv5fiuqkCtv8/ihvqWTlzgOFl9WarcEfL8wR8jIOwDi/ga8wpLJeXvrsb++N0bGv5rcUtuBGP9QFejufLRe4ri/e2HN/Aebi19ORDPaG+As/VvktaGltTfcI+bAcYNoD3456WY/ovfRaGaew++wN7cHBrcXUVgLBMZIaG9MHifGd1PKCE96+Si504dETZflUl8Bj8UPel8ZOaqE7COxQwobi9dfg3VUEmYxgNbctgaiHnTKSi2/iXYgO6RdPk8MpaqV2iTXVHO9s5bEJ6c5XKAYbpmfROl+Fp+KCGNZUcBWnsbLxUp8niIvbvtNYeru0SbU6vDgBeULUzJZxSbluA1mMmfm61xVFFoPfWfnuy45Pva4soXFW1dajSbELC27UTqygkbCmm5GxrlbGMpK4lPTkn6vNKH8Mjq0RNpqUHVn38vBTE7hGV22hrJtAnfYD5F30Mk6WdXI04t3cp+Xy75j0a/N8roG88RVFSlZka1+zjPIzuZmJkHkbsJ3I7bOJHwFPqse+xBV+MQTFzL/MwzR+LX/L9T+M7DDD/M+3THs1zYQy8iS2Rv6hM1CUqNWGTPRMjZQnP0WOi5dX2US2Q3/p8JgMcE2f8bdMO+C8/Rpcdei0TFQAAAABJRU5ErkJggg=="
+                        alt=""></li>
+                <li><img src="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABwAAAAcCAYAAAByDd+UAAAAAXNSR0IArs4c6QAAAqZJREFUSEvF1kuolWUUBuDniANJEGokJgoiZChFiGIiYUiIkuJEHEgENklJkkxKkSaiKZVXEAJRvIDgQNCCCopELDRLEbpBU6NCSOjioNT6X/i2/O2z97/3OYeOH2z27VvrXbf3Xf+AUT4Do4znvgOOwVNdsv4GN4ZQkcmYjh/wY8uuU4aH8EIHx59jAf7pA3QiLuN3zMNvTYDj8S2u1wCW4WzlYCN29wCMfYKbhCeKn3sm3Xo4HxewGbvK7cNVeVbjcXzfBTQt+bAEmtZ82X6vaWjerErxSg0gkX+Hm5iN2x1AD+JFLMf7nYJqAhyLr4pRCyD9+AwJZmubww3Yg014u1vZe9FiBq6VvqW8OTvwGubWAnq26tcZHMWaph73AoxtyvpWDSCZX8EDmFVe50vPl+DOSAET1CeYgsdwC8n8avX9dFXiZ/ALnsQfvSjTT4bxERKHKiewrjhdj/3VkPyMOe3jP9we1u2ewzE8jXPlj2Q+tUzyn72yy//9ZtjylRKmdDPxKx5GJO9kVda1/wfgg6V0ocsi/F0BrsQpLMUHvUCHmuHL2FuchotbyufjWFxl+kgRhq64QwHMNEa2wrXYPY9I4MWKpxPwdaHLipHSIvahQwQ52phSRuaip5G3Ryt1ycBEhXIngSTjjqefDLNqwrloaH3VLMSn1ZQeqanLdrxUePrTULU09xtXDQ4UgIj1e4gKXSr7L/QZdJoy7LlqMK707qEyMHkimFao8jr2tSM2AeZy1KTrqinOskm+qHbgx2VS83NWVOwH7c5ugCFxdtureKcXt8oGyTYJ0Lvl/kdI//+zOzsB1se/cdXUAmntzkxz+9mGN1o/tgOmb3luyXuWaOOqafMceqzqAHi36vXOSiT+Go6W9lHd5iv98HDEIHUH/wIqQYAd//XeZAAAAABJRU5ErkJggg=="
+                        alt=""></li>
+                <li><img src="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABwAAAAcCAYAAAByDd+UAAAAAXNSR0IArs4c6QAAAZdJREFUSEvt1s2LjmEUx/HPyMbCxpRYeJv1TNkjaws2UjbSZBKjkCgWiCTUKMprTNNkp2bBxnL+gvkXFJLNrJSFBe6jeep0h+fcmmea5Kp7c/U753udt+u6h6zwGlphnv/AZc/4qkjpTpzBjhTedmzrE+43vMWHpPuIp5jv7bUjPIFHy55HruJ6+M3AdXiP4QEAv2ArFjNwbw59ANCDmMvA8eYU0wMA9Vyex1QGXsLNAjBOehZ7CtosuY2LGXgHFwpOolvf4RBuYaRgE5KHOJWBT3C8YBzFj+aKtRbR2dewoY/t82ZkJjLwWePoWEdgT74JC9j8B/vZZk6PZuADTBaAW1rDfRh3+8DC7QzGM3AK5zoAR/EYuwo2IbkfN1gGRh2uFIzHovhL9V5T0PckN3A5A0/jXsHB52ae1hd0bcnJyEgG7serv3BUNdmHNxm4sWnxT637teqsovs5Tu3Xojr8FUDWvMCR2PjVA3ygman4FrEb0STVmsWFEG/i9yVaZOwlXuPr74BdT99Jvyp+MTqduKv434/wBwFsOh2X4KQ3AAAAAElFTkSuQmCC"
+                        alt=""></li>
+                <li><img src="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABwAAAAcCAYAAAByDd+UAAAAAXNSR0IArs4c6QAAAYpJREFUSEvt1r9LlVEcx/HXdWrJH0MQgdAmNKUNDRU0KDg11SZigrUbJfQPBP2awsFB3KSohhYHBydDQdFBXdqCcGgMFKKy5wvPhYfDg169z1VBz3jO4fs+38/316k55lU7Zp5TAbyEe7iAz9iuUoXUwx4soyOH7OIOVquCpsCXeJoYn8q8fNwq4BuMJ8Zn8LBVwH7MJ8Yf4GOrgGF3AMN50szmiVMV7+TLohPXE3c28TPfu4GLhfMf+IarGEIf/mILS5hLpUmz9C4W9onhCgJaX5PYwDu0lej+Pn/In/pZs8Co2ZsHBPgFnlcFbCSZfiFC9S8uN+th2NjLYvcFEevLGC15RS/WqwJGZ3pdgERnGkug9/GpCuAOurIY/S4ABkuyM1pjPKRpSdfyUig6dC2Xt7j3BG+rAC7idiJfdxbH78neM7w6CjDGVBR3fX3Neu+tBoATiEl0aEnPgaFaWQzPsKQxZkaSrPuQj5vYfpQV8JXCeaT/dHK/veSbEr+IKKGTH8CNdP+m7vwHT9NwHXaVwKoAAAAASUVORK5CYII="
+                        alt=""></li>
+            </ul>
+        </div>
+        <div class="f2">
+            <p>Qucik links</p>
+            <ul type="none">
+
+                <li>Build your BMW</li>
+                <li>BMW Financial Services</li>
+                <li>BMW Safety</li>
+                <li>BMW Premium Selection (Used Cars)</li>
+            </ul>
+        </div>
+        <div class="f3">
+            <p>Experince BMW</p>
+            <ul type="none">
+                <li>BMW Group</li>
+                <li>BMW Excellence Club</li>
+                <li>BMW Motorrad</li>
+                <li>Charging Network</li>
+            </ul>
+        </div>
+        <div class="f4">
+            <p>Legal</p>
+            <ul type="none">
+                <li>Legal Disclaimer</li>
+                <li>Privacy Policy</li>
+                <li>Legal insurence</li>
+                <li>Terms And Conditions</li>
+            </ul>
+        </div>
+    </footer>
+
+
+</body>
+
+</html>
